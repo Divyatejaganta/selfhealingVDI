@@ -1,5 +1,3 @@
-# selfhealingVDI
-# selfhealingVDI
 # Self-Healing VDI Stack - Production Implementation Guide
 
 ## Executive Summary
